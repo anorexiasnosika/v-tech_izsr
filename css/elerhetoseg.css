@@ -15,7 +15,6 @@ padding: 0px;
 }
 body{
 font-family: arial;
-background: #e3e9f7;
 }
 .main{
 
@@ -98,8 +97,8 @@ margin: 0 auto;
 }
 
 .logo {
-  width: 120px;
-  margin-top: 8px;
+width: 120px;
+margin-top: 8px;
 }
 
 nav .logo {
@@ -124,8 +123,8 @@ nav ul li a:hover {
   background: #f6f4ff;
 }
 nav ul li a:active {
-  background: #675cff;
-  color: #fff;
+background: #675cff;
+color: #fff;
 }
 
 .hamburger {
