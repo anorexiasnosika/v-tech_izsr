@@ -256,3 +256,6 @@ height: auto;
 .card:hover>div,.card:hover>strong {
   opacity: 0;
 }
+.szovegek{
+  margin-right: 20px;
+}
